@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teashop/Teashop.iml" filepath="$PROJECT_DIR$/Teashop/Teashop.iml" />
       <module fileurl="file://$PROJECT_DIR$/WestTwoMilkTea.iml" filepath="$PROJECT_DIR$/WestTwoMilkTea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/teashop.iml" filepath="$PROJECT_DIR$/HelloWorld/teashop.iml" />
     </modules>
   </component>
 </project>
